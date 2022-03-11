@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # movies = {  :the_shawshank_redemption => 1994,
 #             :the_godfather => 1972,
 #             :the_dark_knight => 2008,
