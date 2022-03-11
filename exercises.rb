@@ -17,14 +17,3 @@ movies = {  :the_shawshank_redemption => 1994,
             :twelve_angry_men => 1957}
 for i in movies.do
   done
-
-=======
-movies = {
-    :"The Shawshank Redemption" => 1994,
-    :"The Godfather" => 1972,
-    :"The Dark Knight" => 2008,
-    :"The Godfather: Part II" => 1974,
-    :"12 Angry Men" => 1957
-  }
-puts movies
->>>>>>> b81414adf042c3f6d283884834cac8a75602135e
