@@ -9,7 +9,7 @@
 # puts movies [:the_godfather_part_ii]
 # puts movies [:twelve_angry_men]
 
-===
+
 
 # iterating over a hash
 
@@ -22,7 +22,7 @@
 #   puts value
 # end
 
-===
+
 
 # movies = [1994, 1972, 2008, 1974, 1957]
 # puts movies [0]
@@ -31,7 +31,7 @@
 # puts movies [3]
 # puts movies [4]
 
-===
+
 
 # iterating over an array
 
@@ -40,3 +40,13 @@
 #   puts item
 # end
 
+
+
+# puts 5 * 4 * 3 * 2 * 1
+# puts 6 * 5 * 4 * 3 * 2 * 1
+
+
+
+puts 12.5 * 12.5
+puts 25.25 * 25.25
+puts 53.789 * 53.789
