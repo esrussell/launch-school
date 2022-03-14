@@ -108,7 +108,7 @@
 puts 'How old are you?'
 age = gets.chomp.to_i
 years = [10, 20, 30, 40]
-years.each do |item|
-  puts "In #{item} you will be #{age + item}"
+years.each do |i|
+  puts "In #{i} you will be #{age + i}"
 end
 
