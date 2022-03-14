@@ -103,12 +103,14 @@
 #   puts "In " + item.to_s + " you will be " + (age + item).to_s
 # end
 
-# best yet with string interpolation
+# best yet with string interpolation, item abbreviation and `{...}`` instead of `do...end``
 
 puts 'How old are you?'
 age = gets.chomp.to_i
 years = [10, 20, 30, 40]
-years.each do |i|
+years.each { |i|
   puts "In #{i} you will be #{age + i}"
-end
+}
+
+
 
