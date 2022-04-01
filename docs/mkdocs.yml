@@ -1,0 +1,8 @@
+site_name: Launch School Docs
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: 
+  name: readthedocs
